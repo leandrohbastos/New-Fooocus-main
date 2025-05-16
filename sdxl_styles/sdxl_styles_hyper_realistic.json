@@ -1,0 +1,44 @@
+{
+    "styles": [
+        {
+            "name": "Hyper Realistic",
+            "prompt": "photorealistic, highly detailed, professional photography, 8k uhd, sharp focus, perfect lighting, studio quality",
+            "negative_prompt": "cartoon, anime, illustration, painting, drawing, digital art, low quality, blurry, pixelated"
+        },
+        {
+            "name": "Studio Portrait",
+            "prompt": "professional studio portrait, perfect lighting, soft shadows, high-end photography, 8k uhd, sharp focus, detailed skin texture, natural skin tones",
+            "negative_prompt": "cartoon, anime, illustration, painting, drawing, digital art, low quality, blurry, pixelated, overexposed, underexposed"
+        },
+        {
+            "name": "Cinematic",
+            "prompt": "cinematic photography, movie still, professional cinematography, dramatic lighting, film grain, anamorphic lens, shallow depth of field",
+            "negative_prompt": "cartoon, anime, illustration, painting, drawing, digital art, low quality, blurry, pixelated, overexposed, underexposed"
+        },
+        {
+            "name": "Urban Scene",
+            "prompt": "urban photography, street photography, city life, candid shot, natural lighting, environmental details, architectural elements",
+            "negative_prompt": "cartoon, anime, illustration, painting, drawing, digital art, low quality, blurry, pixelated, overexposed, underexposed"
+        },
+        {
+            "name": "Nature Photography",
+            "prompt": "nature photography, landscape, wildlife, natural lighting, environmental details, perfect composition, professional camera",
+            "negative_prompt": "cartoon, anime, illustration, painting, drawing, digital art, low quality, blurry, pixelated, overexposed, underexposed"
+        },
+        {
+            "name": "Product Photography",
+            "prompt": "product photography, commercial photography, studio lighting, perfect composition, professional camera, detailed textures, clean background",
+            "negative_prompt": "cartoon, anime, illustration, painting, drawing, digital art, low quality, blurry, pixelated, overexposed, underexposed"
+        },
+        {
+            "name": "Architectural",
+            "prompt": "architectural photography, building photography, perfect composition, professional camera, detailed textures, natural lighting, environmental details",
+            "negative_prompt": "cartoon, anime, illustration, painting, drawing, digital art, low quality, blurry, pixelated, overexposed, underexposed"
+        },
+        {
+            "name": "Fashion Photography",
+            "prompt": "fashion photography, editorial photography, studio lighting, perfect composition, professional camera, detailed textures, clean background",
+            "negative_prompt": "cartoon, anime, illustration, painting, drawing, digital art, low quality, blurry, pixelated, overexposed, underexposed"
+        }
+    ]
+} 
